@@ -29,4 +29,3 @@
 
 ### ![image](https://user-images.githubusercontent.com/81594456/177140332-50bdefac-b750-43df-9dc3-aec24f44ecfc.png)
 
-https://drive.google.com/file/d/1JcHkLeUQhKayxvt-e2N2ctCf4nHfn5n9/view?usp=sharing
