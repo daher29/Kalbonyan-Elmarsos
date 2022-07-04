@@ -45,7 +45,7 @@
 
 <span id="MERN"></span>
 # MERN Stack
-![40%](https://progress-bar.dev/40/?title=In Progress)
+![40%](https://progress-bar.dev/40/?title=InProgress)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
 - [ ]  `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
