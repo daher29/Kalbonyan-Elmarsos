@@ -49,6 +49,7 @@
 
 [Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
 
-![Certificate-Link](https://www.udemy.com/certificate/UC-7bd4dd59-1ded-4fc4-b274-30159c9757e7/)<br>
-(![Certificate](https://user-images.githubusercontent.com/81594456/179346131-f61e8ce9-65ff-4782-bc41-dcd0ef932c1c.png)
-)
+[Certificate-Link](https://www.udemy.com/certificate/UC-7bd4dd59-1ded-4fc4-b274-30159c9757e7/)<br>
+
+![Certificate](https://user-images.githubusercontent.com/81594456/179346131-f61e8ce9-65ff-4782-bc41-dcd0ef932c1c.png)
+
