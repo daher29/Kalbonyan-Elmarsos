@@ -14,10 +14,10 @@
 
 ## Projects
 
-### Pig Game
+### Dice Game
 
 - [Project-code](./Projects/Pig-Game)
-- [Live Demo]()
+- [Live Demo](https://dice-game-daher29.netlify.app)
 
 ### Bankist
 
@@ -37,16 +37,18 @@
 ### Forkify
 
 - [Project-code](./Projects/Forkify)
-- [Live Demo]()
+- [Live Demo](https://forkify-daher29.netlify.app)
 
 ---
 
 ## Code
 
-[Code](Code)
+[Code](https://github.com/daher29/Kalbonyan-Elmarsos/tree/main/02-Udemy/-02-Js-Jonas/Code)
 
 ---
 
 [Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate-Link](https://www.udemy.com/certificate/UC-7bd4dd59-1ded-4fc4-b274-30159c9757e7/)<br>
+(![Certificate](https://user-images.githubusercontent.com/81594456/179346131-f61e8ce9-65ff-4782-bc41-dcd0ef932c1c.png)
+)
