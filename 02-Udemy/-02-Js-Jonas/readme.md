@@ -22,17 +22,17 @@
 ### Bankist
 
 - [Project-code](./Projects/Bankist)
-- [Live Demo]()
+- [Live Demo](https://bankist-daher29.netlify.app)
 
 ### Bankist Site
 
 - [Project-code](./Projects/Bankist-Site)
-- [Live Demo]()
+- [Live Demo](https://bankist-site-daher29.netlify.app)
 
 ### Mapty
 
 - [Project-code](./Projects/Mapty)
-- [Live Demo]()
+- [Live Demo](https://mapty-daher29.netlify.app)
 
 ### Forkify
 
@@ -52,4 +52,3 @@
 [Certificate-Link](https://www.udemy.com/certificate/UC-7bd4dd59-1ded-4fc4-b274-30159c9757e7/)<br>
 
 ![Certificate](https://user-images.githubusercontent.com/81594456/179346131-f61e8ce9-65ff-4782-bc41-dcd0ef932c1c.png)
-
