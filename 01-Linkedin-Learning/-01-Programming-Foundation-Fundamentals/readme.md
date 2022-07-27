@@ -16,6 +16,6 @@
 -------------------------------
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
 <br>[Certificate Link](https://www.linkedin.com/learning/certificates/3e76368d508741e1b19dbab9e5a2cb38d543a1bd53ac4f9e9e8a035af5717668?trk=share_certificate)
-<br>
+<br><br><br>
 ![image](https://user-images.githubusercontent.com/81594456/181340948-08fb42b7-d092-4e89-bd43-887ebca85748.png)
 
