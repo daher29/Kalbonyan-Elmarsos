@@ -1,4 +1,4 @@
-# AWS Certified Cloud Practitioner 2020
+# AWS Certified Cloud Practitioner (CLF-C01)
 ## About the course
 - AWS Certifications are the hottest certifications in IT for the third year in a row. This constantly evolving cloud computing platform offers a wide selection of services that can drive innovation, enable scalability, and help your organization maximize its IT spend.
 
@@ -7,3 +7,9 @@
 - Having this certification will help marketing, sales, legal, and finance professionals to better interact with developers and other IT professionals engaged in AWS-related projects. And earning this credential is also a great first step toward the more technical AWS Associate-level certifications.
 
 - We know that you’re busy, so this course consists of 5-20 minute videos that let you learn at your own pace. Our video lessons keep it simple, making sure you grasp new concepts at the right level before moving on. Together, we’ll walk you through the AWS global infrastructure, each of the major services and their use-cases, security in the cloud, and the AWS pricing & billing models.
+
+<br><br>
+[Link}(https://verify.acloud.guru/699614748819)
+<br>
+
+![image](https://user-images.githubusercontent.com/81594456/182797243-843769b1-ad89-4d10-a3b3-c17616c53ccf.png)
