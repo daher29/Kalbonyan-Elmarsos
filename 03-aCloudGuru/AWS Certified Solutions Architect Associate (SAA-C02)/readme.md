@@ -1,4 +1,4 @@
-# AWS Certified Solutions Architect Associate SAA-C02
+# AWS Certified Solutions Architect - Associate (SAA-C02)
 ## About the course
 - AWS Certified Solutions Architect is among the most valuable and sought-after cloud computing certifications in the world. We designed this cloud architect certification training for anyone seeking to learn the major components of Amazon Web Services (AWS). By the end of the course, you’ll be prepared to pass the associate-level AWS Certified Solutions Architect certification exam.
 
@@ -16,3 +16,12 @@
 - The ideal student for this course is ready to quickly break into cloud computing. You don’t have hours to spend on training. We get you up to speed in half the time as other certification courses. The course will help you prepare for a position as a qualified AWS solutions architect.
 
 - At the end of this course, you’ll be able to confidently take the associate-level AWS Certified Solutions Architect exam!
+<br><br><br>
+
+[Certificate Link](https://verify.acloud.guru/8FF37590A916)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/81594456/182797955-7251009e-1797-4774-87ab-7cc9fb6a82f4.png)
+
+<br>
