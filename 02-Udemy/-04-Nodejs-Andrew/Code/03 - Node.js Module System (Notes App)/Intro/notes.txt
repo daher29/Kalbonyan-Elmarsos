@@ -1,0 +1,5 @@
+write again (this replace previews code)
+ Hi, I am Mohammed trying "appendFileSync".
+ Hi, I am Mohammed trying "appendFileSync".
+ Hi, I am Mohammed trying "appendFileSync".
+ Hi, I am Mohammed trying "appendFileSync" (this add new content each time you run).
