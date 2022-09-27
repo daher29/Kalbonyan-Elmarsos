@@ -67,7 +67,7 @@
 ### Order-food App (S17)
 
 - [Project Code](./Projects/order-food-app/S17-project/)
-- [Final Project Live Live Demo]()
+- [Final Project Live Live Demo](https://daher29-react-meals-order-app.netlify.app/)
 
 ### Redux Counter(S18)
 
@@ -82,12 +82,12 @@
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo]()
+- [Live Demo](https://deploying-react-apps-daher29.netlify.app/quotes)
 
 ### Authentication-page(S22)
 
 - [Project-code](./Projects/Authentication-page)
-- [Live Demo]()
+- [Live Demo](https://react-authentication-daher29.netlify.app/)
 
 ### Meetsup app(S23)
 
