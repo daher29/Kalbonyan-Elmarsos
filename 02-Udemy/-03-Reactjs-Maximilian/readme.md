@@ -10,9 +10,6 @@
 
   <br/>
 
-- [Section 3 Project Live Demo]()
-- [Section 4 Project Live Demo]()
-- [Section 5 Project Live Demo]()
 
 ### goals app (S6-S7)
 
@@ -21,48 +18,45 @@
 
 <br/>
 
-- [Section 6 Project Live Demo]()
-- [Section 7 Project Live Demo]()
-
 ### Section 8-9 Project
 
 - [Project-code](./Projects/section-8-9-project)
-- [Live Demo]()
+
 
 ### Login-app (S10)
 
 - [Project-code](./Projects/Login-app-s10/)
-- [Live Demo]()
+
 
 ### Order-food App (S11)
 
 - [Project-code](./Projects/order-food-app/S11-project/)
-- [Live Demo]()
+
 
 ### Section 12 Project
 
 - [Project-code](./Projects/S12-project)
-- [Live Demo]()
+
 
 ### Section 13 Project
 
 - [Project-code](./Projects/S13-project)
-- [Live Demo]()
+
 
 ### movies app(S14)
 
 - [Project-code](./Projects/movies-app)
-- [Live Demo]()
+
 
 ### Tasks app with firebase(S15)
 
 - [Project-code](./Projects/task-app-firbase/)
-- [Live Demo]()
+
 
 ### Form-app(S16)
 
 - [Project-code](./Projects/form-app)
-- [Live Demo]()
+
 
 ### Order-food App (S17)
 
@@ -72,12 +66,12 @@
 ### Redux Counter(S18)
 
 - [Project-code](./Projects/redux-counter)
-- [Live Demo]()
+
 
 ### Redux Cart(S19)
 
 - [Project-code](./Projects/redux-cart)
-- [Live Demo]()
+
 
 ### Quotes app(S20)
 
@@ -92,32 +86,32 @@
 ### Meetsup app(S23)
 
 - [Project-code](./Projects/meetsup-app)
-- [Live Demo]()
+
 
 ### Animation-app (S24)
 
 - [Project-code](./Projects/animation-app)
-- [Live Demo]()
+
 
 ### Products-app(S25)
 
 - [Project-code](./Projects/Products-app)
-- [Live Demo]()
+
 
 ### todo-app-TS(S27)
 
 - [Project-code](./Projects/todo-app-TS)
-- [Live Demo]()
+
 
 ### ingredients-app(S28)
 
 - [Project-code](./Projects/ingredients-app/)
-- [Live Demo]()
+
 
 ### Section 29 Project
 
 - [Project-code](./Projects/Section-29/)
-- [Live Demo]()
+
 
 ---
 
