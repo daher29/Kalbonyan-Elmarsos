@@ -45,7 +45,7 @@
 
 <span id="MERN"></span>
 # MERN Stack
-![100%](https://progress-bar.dev/100/?title=InProgress)
+![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
 - [ ]  `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
@@ -78,5 +78,5 @@
 
 
 # Learn How to Make serverless web applications
-![60%](https://progress-bar.dev/0/?title=Done)
+![60%](https://progress-bar.dev/60/?title=)
 - [ ] `in progress` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)
